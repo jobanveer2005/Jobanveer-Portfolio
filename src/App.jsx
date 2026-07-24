@@ -49,7 +49,7 @@ const Hero = () => (
           Hi, I'm <span className="text-amber-400">Jobanveer Singh</span>
         </h1>
         <p className="text-lg text-zinc-400 leading-relaxed max-w-lg mx-auto md:mx-0">
-          I'm a 3rd year Computer Engineering student who is still learning and trying to implement those theoretical knowledge to practical knowledge. Trying to keep myself up to date.
+          I'm a 3rd year Computer Engineering student who is still learning, passionate about AI/ML and trying to implement those theoretical knowledge to practical knowledge. Trying to keep myself up to date.
         </p>
         <div className="pt-4">
           <a href="#projects" className="inline-block bg-amber-400 text-zinc-950 px-8 py-3 rounded-full font-bold shadow-[0_0_15px_rgba(251,191,36,0.2)] hover:shadow-[0_0_25px_rgba(251,191,36,0.4)] hover:-translate-y-1 transition-all duration-300">
