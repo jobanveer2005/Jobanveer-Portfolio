@@ -1,4 +1,5 @@
 import React from 'react';
+import avatarImg from './avatar.png';
 
 // --- Data ---
 const skills = [
@@ -60,7 +61,7 @@ const Hero = () => (
       {/* 3D Avatar Placeholder */}
       <div className="order-1 md:order-2 flex justify-center md:justify-end items-end h-full">
         <img 
-          src="/Jobanveer's Avatar.png" 
+          src={avatarImg} 
           alt="Jobanveer Singh" 
           className="w-full max-w-sm md:max-w-md lg:max-w-lg object-contain drop-shadow-[0_20px_50px_rgba(251,191,36,0.15)] transform transition-all duration-500 hover:scale-105 hover:-translate-y-4 hover:drop-shadow-[0_20px_50px_rgba(251,191,36,0.4)] cursor-pointer"
         />
