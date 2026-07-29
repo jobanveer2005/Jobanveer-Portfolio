@@ -3,7 +3,7 @@ import avatarImg from './avatar.png';
 
 // --- Data ---
 const skills = [
-  "HTML", "CSS", "MongoDB", "Python", "Numpy", "Pandas", "SQL", "Flask"
+  "HTML", "CSS", "MongoDB", "Python", "Numpy", "Pandas", "SQL"
 ];
 
 const projects = [
